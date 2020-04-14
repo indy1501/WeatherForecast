@@ -22,7 +22,7 @@ import android.view.ViewGroup
  * create an instance of this fragment.
  */
 class DrawOneFragment : Fragment() {
-    // TODO: Rename and change types of parameters
+
 //    private var param1: String? = null
 //    private var param2: String? = null
 //    private var listener: OnFragmentInteractionListener? = null
@@ -43,7 +43,7 @@ class DrawOneFragment : Fragment() {
         return inflater.inflate(R.layout.fragment_draw_one, container, false)
     }
 
-//    // TODO: Rename method, update argument and hook method into UI event
+//
 //    fun onButtonPressed(uri: Uri) {
 //        listener?.onFragmentInteraction(uri)
 //    }

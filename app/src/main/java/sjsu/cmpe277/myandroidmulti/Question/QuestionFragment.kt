@@ -16,7 +16,6 @@ import sjsu.cmpe277.myandroidmulti.R
 import sjsu.cmpe277.myandroidmulti.databinding.FragmentQuestionBinding
 
 
-// TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
 //private const val ARG_PARAM1 = "param1"
 //private const val ARG_PARAM2 = "param2"
@@ -30,7 +29,7 @@ import sjsu.cmpe277.myandroidmulti.databinding.FragmentQuestionBinding
  * create an instance of this fragment.
  */
 class QuestionFragment : Fragment() {
-    // TODO: Rename and change types of parameters
+
 //    private var param1: String? = null
 //    private var param2: String? = null
 //    private var listener: OnFragmentInteractionListener? = null

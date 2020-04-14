@@ -1,7 +1,6 @@
 <resources>
-    <string name="app_name">MyAndroidMulti</string>
+    <string name="app_name">Weather Forecast App</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="button_name">Call SOS</string>
     <string name="answer_one">You selected Answer One</string>
