@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/WeatherAppAndroid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WeatherForecast" vcs="Git" />
   </component>
 </project>
